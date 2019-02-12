@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cahtong.chinsyo.com/sitemap.xml
